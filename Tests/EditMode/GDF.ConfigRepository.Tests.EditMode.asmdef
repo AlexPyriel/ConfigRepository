@@ -1,0 +1,22 @@
+{
+    "name": "GDF.ConfigRepository.Tests.EditMode",
+    "rootNamespace": "",
+    "references": [
+        "GDF.ConfigRepository",
+        "AYellowpaper.SerializedCollections"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false,
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}
